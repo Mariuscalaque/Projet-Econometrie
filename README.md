@@ -1,6 +1,6 @@
 # 📊 Projet d'Économétrie — Cours de l'Or & Taux US 10Y
 
-**Auteurs :** Pierre Loison & Marius Calaque
+**Auteurs :** Marius Calaque
 
 ---
 
@@ -104,7 +104,6 @@ Projet-Econometrie/
 | Nom | GitHub |
 |-----|--------|
 | Marius Calaque | [@Mariuscalaque](https://github.com/Mariuscalaque) |
-| Pierre Loison | — |
 
 ---
 
